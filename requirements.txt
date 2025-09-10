@@ -1,7 +1,7 @@
 # Core ML and Image Processing
 numpy>=1.24.0
 Pillow>=9.0.0
-tensorflow>=2.10.0
+tensorflow-cpu>=2.10.0
 opencv-python-headless>=4.7.0
 
 # Streamlit Web App
